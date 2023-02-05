@@ -1516,8 +1516,8 @@
     ]
   },
   "time": {
-    "from": "2022-12-13T21:10:31.482Z",
-    "to": "2022-12-14T05:17:14.426Z"
+    "from": "now-1h",
+    "to": "now"
   },
   "timepicker": {
     "refresh_intervals": [
